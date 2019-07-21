@@ -10,8 +10,7 @@
 
 Laser cut, the laser is all about the settings. Setting the speed of the laser 1% lower could make or break the part. There are two functions of the laser cutter: engraving and cutting: 
 
-//show engraving pictures and label
-//show cutting pictures and label 
+![Laser Cut](https://github.com/BlastWind/FaboX-2019-project-demo/blob/master/pics/laser_image.jpg?raw=true)
 
 Made a laser cutted stamp today. Heading onto day 2 with more eagerness to learn. 
 
