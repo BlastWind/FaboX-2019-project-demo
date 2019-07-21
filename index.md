@@ -17,8 +17,7 @@ Made a laser cutted stamp today. Heading onto day 2 with more eagerness to learn
 ### Day 3
 
 3d printing, 3d printing is all about creativity and visualization. In the beginning, I printed cool models from thinkiverse.com and found free online 3d model. But soon my work requires innovation and custom models, so I have to whip out blender to create those 3d models in order to print the parts. 
-
-//show 3d printing pic 
+![3d print](https://github.com/BlastWind/FaboX-2019-project-demo/blob/master/3dprint.jpg?raw=true)
 
 Made a 3d printed version of myself today, the 3d model is obtained by 3d scanning myself. 
 
@@ -28,12 +27,13 @@ Arduino is a microcontroller board, it can connect to other electrical component
 
 There are many electrical components, LED light, buttons, motors, analog sensors, etc. These don't have to be soldered onto the board, instead they can be connected to a breadboard that is connected to the original board. 
 
+![3d print](https://github.com/BlastWind/FaboX-2019-project-demo/blob/master/arduino.jpg?raw=true)
+
 ### Day 5 
 
 Today I get to start my project. The motor controlled stamper. The idea is to connect a stamp to a standing motor so that when the motor spins from 0 degrees to 180 degrees it will carry the stamp to do the same motion. 
 
 At first I scramped together a prototype that used cardboard. Later, I measured the exact dimensions I need for my parts in order to make more sturdy plywood parts. Here's the result: 
 
-
-
+![3d print](https://github.com/BlastWind/FaboX-2019-project-demo/blob/master/project.jpg?raw=true)
 
