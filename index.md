@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## 歡迎來到我的FaboX 2019作品介紹
 
-You can use the [editor on GitHub](https://github.com/BlastWind/FaboX-2019-project-demo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Overview 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3d scanning, laser cutting, turning bits to atoms, all of these technologies are actually not as hard as I thought.
 
-```markdown
-Syntax highlighted code block
+### Day 2
 
-# Header 1
-## Header 2
-### Header 3
+Laser cut, the laser is all about the settings. Setting the speed of the laser 1% lower could make or break the part. There are two functions of the laser cutter: engraving and cutting: 
 
-- Bulleted
-- List
+//show engraving pictures and label
+//show cutting pictures and label 
 
-1. Numbered
-2. List
+Made a laser cutted stamp today. Heading onto day 2 with more eagerness to learn. 
 
-**Bold** and _Italic_ and `Code` text
+### Day 3
 
-[Link](url) and ![Image](src)
-```
+3d printing, 3d printing is all about creativity and visualization. In the beginning, I printed cool models from thinkiverse.com and found free online 3d model. But soon my work requires innovation and custom models, so I have to whip out blender to create those 3d models in order to print the parts. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+//show 3d printing pic 
 
-### Jekyll Themes
+Made a 3d printed version of myself today, the 3d model is obtained by 3d scanning myself. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BlastWind/FaboX-2019-project-demo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Day 4 
 
-### Support or Contact
+Arduino is a microcontroller board, it can connect to other electrical components. Shanghaino is our own version of it. I learned soldering which can stick electrical components to the board. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+There are many electrical components, LED light, buttons, motors, analog sensors, etc. These don't have to be soldered onto the board, instead they can be connected to a breadboard that is connected to the original board. 
+
+### Day 5 
+
+Today I get to start my project. The motor controlled stamper. The idea is to connect a stamp to a standing motor so that when the motor spins from 0 degrees to 180 degrees it will carry the stamp to do the same motion. 
+
+At first I scramped together a prototype that used cardboard. Later, I measured the exact dimensions I need for my parts in order to make more sturdy plywood parts. Here's the result: 
+
+
+
+
